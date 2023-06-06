@@ -9,6 +9,10 @@ With its intuitive user interface, FaceLink makes it easy to upload images, init
 FaceLink offers a range of applications, from personal use to professional investigations. It can be utilized for social media research, background checks, image verification, or simply satisfying your curiosity about a particular face. Its reliable and robust performance ensures that you can trust the results it provides.
 
 Experience the power of facial recognition and online connectivity with FaceLink. Uncover the hidden connections and delve deeper into the digital lives of individuals with this cutting-edge software.
+
+
+ ![Top Language](https://img.shields.io/github/languages/top/addi00000/empyrean?color=%23000000)<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=technicalhayden&label=Profile%20views&color=0e75b6&style=flat" alt="technicalhayden" /> </p>
 ## Features
 
 - Recognize faces in photos by searching the internet
